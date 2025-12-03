@@ -1,0 +1,16 @@
+[
+  { "Name": "CES Unveiled Las Vegas", "Date": "Jan 4, 2026", "Time": "Evening", "Location": "Mandalay Bay", "Type": "Official", "Access": "Media/Badge", "Priority": "Medium" },
+  { "Name": "Silicon Valley Funding Summit 2026", "Date": "Jan 5, 2026", "Time": "8:00 AM - 6:00 PM", "Location": "Tuscany Suites & Casino", "Type": "Summit", "Access": "Paid ($495+)", "Priority": "High" },
+  { "Name": "CES 2026 Asia Pacific Delegation", "Date": "Jan 5, 2026", "Time": "11:00 AM", "Location": "Las Vegas Convention Center", "Type": "Networking", "Access": "Delegates", "Priority": "Medium" },
+  { "Name": "Pepcom Digital Experience!", "Date": "Jan 5, 2026", "Time": "5:00 PM", "Location": "Mirage Hotel", "Type": "Media", "Access": "Invite Only", "Priority": "Medium" },
+  { "Name": "All-In Podcast Keynote", "Date": "Jan 6, 2026", "Time": "2:00 PM", "Location": "Venetian (Palazzo Ballroom)", "Type": "Keynote", "Access": "Badge", "Priority": "High" },
+  { "Name": "Silicon Dragon CES 2026", "Date": "Jan 6, 2026", "Time": "5:00 PM", "Location": "Turnberry Towers East", "Type": "Mixer", "Access": "Ticketed", "Priority": "Medium" },
+  { "Name": "ShowStoppers @ CES", "Date": "Jan 6, 2026", "Time": "6:00 PM", "Location": "Bellagio Ballroom", "Type": "Media", "Access": "Media/Invite", "Priority": "High" },
+  { "Name": "MediaLink & iHeartMedia VIP Dinner", "Date": "Jan 7, 2026", "Time": "Evening", "Location": "Aria Resort (C-Space)", "Type": "Party", "Access": "Very Exclusive", "Priority": "Low (Hard to Enter)" },
+  { "Name": "Landmark Ventures VIP Dinner", "Date": "Jan 7, 2026", "Time": "5:30 PM", "Location": "Venetian", "Type": "Dinner", "Access": "Invite Only", "Priority": "Medium" },
+  { "Name": "Tech Up For Women Conference", "Date": "Jan 8, 2026", "Time": "9:30 AM", "Location": "The Venetian", "Type": "Conference", "Access": "Public", "Priority": "Medium" },
+  { "Name": "AI and Crypto Media & Investor Showcase", "Date": "Jan 8, 2026", "Time": "11:00 AM", "Location": "Tiger Mansion LV", "Type": "Showcase", "Access": "Ticketed", "Priority": "High" },
+  { "Name": "Satoshi Salon", "Date": "Jan 9, 2026", "Time": "TBA", "Location": "Private Location", "Type": "Party", "Access": "Invite Only", "Priority": "Medium" },
+  { "Name": "Founders & Funders Dinner (Predicted)", "Date": "Jan 7, 2026 (Likely)", "Time": "Evening", "Location": "Private Venue", "Type": "Dinner", "Access": "Invite", "Priority": "Medium" },
+  { "Name": "Amazon After Dark (Predicted)", "Date": "Jan 7, 2026 (Likely)", "Time": "Night", "Location": "Jewel Nightclub, Aria", "Type": "Party", "Access": "Invite/Line", "Priority": "Low" }
+]
